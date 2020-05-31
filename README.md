@@ -401,7 +401,7 @@
 - [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [ ] [Girls in Technology: Git Branching](https://www.youtube.com/watch?v=ewoWxGq97g4&index=4&list=PLzHu92VkS9CG0LRI8O653JNGuZVFw1o8Q)
-- [ ] [Git-Game](https://www.git-game.com/)
+- [x] [Git-Game](https://www.git-game.com/)
 - [ ] [Git Immersion](http://gitimmersion.com/index.html)
 - [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
